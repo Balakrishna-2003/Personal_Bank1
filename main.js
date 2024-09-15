@@ -27,7 +27,6 @@ var id = document.querySelector('#contain');
 
 
 function aloo() {
-    alert(localStorage.getItem(3));
     count++;
     var why = prompt("Enter the Reason: ");
     var user = prompt("Please Enter your Amount: ");
